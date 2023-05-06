@@ -1,2 +1,2 @@
 # Neural_Networks_And_Deep_Learning
-Neural_Networks_And_Deep_Learning_2022/2023
+Tasks for the Neural Networks and Deep Learning course.
